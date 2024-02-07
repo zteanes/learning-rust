@@ -1,0 +1,5 @@
+- `cargo new` let's us create a project
+- `cargo build` builds the project (compiles)
+- `cargo run` compiles and executes the made executable
+- `cargo check` sees if the project can compile w/o making binary; used to 
+  		check errors
